@@ -1,0 +1,4 @@
+{
+    "dotnet.preferCSharpExtension": true,
+    "csharp.debug.symbolOptions.searchNuGetOrgSymbolServer": true
+}
